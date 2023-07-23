@@ -1,0 +1,32 @@
+#[Index]	[Word]	[File_count]	[File_name]	[word_count]#
+#:0		actions.	1		file1.txt	1
+ 	 	 	 	 		 	#
+#:0		actions,	1		file1.txt	1
+ 	 	 	 	 		 	#
+#:2		Control	1		file1.txt	3
+ 	 	 	 	 		 	#
+#:2		control	1		file1.txt	3
+ 	 	 	 	 		 	#
+#:4		emotions,	1		file1.txt	1
+ 	 	 	 	 		 	#
+#:5		family,	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:7		hard,	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:11		life	1		file1.txt	2
+ 	 	 	 	 		 	#
+#:11		Love	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:11		live	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:12		mind,	1		file1.txt	2
+ 	 	 	 	 		 	#
+#:15		passion	1		file2.txt	2
+ 	 	 	 	 		 	#
+#:18		super	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:22		work	1		file2.txt	1
+ 	 	 	 	 		 	#
+#:24		your	2		file1.txt	6
+ 	 	 	 	 	file2.txt	2
+ 	 	 	 	 		 	#
